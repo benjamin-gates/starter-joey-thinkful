@@ -1,0 +1,13 @@
+header {
+    background: darkblue;
+    color: white;
+}
+h1 {
+    font-size: 52px;
+}
+
+@media all and (min-width: 600px){
+    h1{
+        font-size: 48px;
+    }
+}
